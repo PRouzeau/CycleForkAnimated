@@ -4,10 +4,11 @@
  This is programmed with OpenSCAD, components are those of my recumbent cycle simulator BentSim (published in my account)
  Openscad allow parametric image based on a time variable and can automatically export it. These images are then assembled in a unique gif file, 
  with time between images of 20 ms and an extended step of 130 ms fort the first and middle image (when going back), so image 1 and 31 for the fixed trail (60 images) and 1 and 26 for the fixed angle (50 images).
- 
- ![Presentation image](Images/Fork_Trail_const.gif?raw=true "Fork with fixed trail animation")
 
- ![Presentation image](Images/Fork_Ang_const.gif?raw=true "Fork with fixed angle animation")
+ 
+ ![Fork with fixed trail](Images/Fork_Trail_const_En.gif)
+
+ ![Fork with fixed angle](Images/Fork_Ang_const_En.gif)
  
 The above images also exist in French, Spanish and Italian, see in the '/Images' directory
  
