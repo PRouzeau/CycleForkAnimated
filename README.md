@@ -1,6 +1,6 @@
 # CycleForkAnimated
- Creates an animation of a bicycle fork geometry with either Fixed trail or Fixed angle
- Having built a bike with a very vertical steering, most people don't understand how it works and an animation seemed the best way to explain the interdependance of parameters in cycle fork geometry.\
+ Creates an animation of a bicycle fork geometry with either Fixed trail or Fixed angle.\
+ Having built a bike with a very vertical steering and negative offset, I noticed that most people don't understand how it works and an animation seemed the best way to explain the interdependance of parameters in cycle fork geometry.\
  This is programmed with OpenSCAD, components are those of my recumbent cycle simulator BentSim (published in my account)
  Openscad allow parametric image based on a time variable and can automatically export it. These images are then assembled in a unique gif file, 
  with time between images of 20 ms and an extended step of 130 ms fort the first and middle image (when going back), so image 1 and 31 for the fixed trail (60 images) and 1 and 26 for the fixed angle (50 images).\
